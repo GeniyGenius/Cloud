@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c207892-d84b-44cf-ae78-c0a72e44095b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="27gBZbjgcYODMymDNMyusoXV5du" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aybek\Desktop\Cloud\src\images\slider" />
+      <recent name="C:\Users\aybek\Desktop\Cloud\src\libs\owl-carousel" />
+      <recent name="C:\Users\aybek\Desktop\Cloud\src\images\video" />
+      <recent name="C:\Users\aybek\Desktop\Cloud\src\libs\fancybox" />
+      <recent name="C:\Users\aybek\Desktop\Cloud\src\images\Footer" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c207892-d84b-44cf-ae78-c0a72e44095b" name="Default Changelist" comment="" />
+      <created>1649731904651</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649731904651</updated>
+      <workItem from="1649731906856" duration="9000" />
+      <workItem from="1649731932863" duration="5109000" />
+      <workItem from="1649905348486" duration="4187000" />
+      <workItem from="1650293924393" duration="1294000" />
+      <workItem from="1650335429918" duration="7285000" />
+      <workItem from="1650507933375" duration="6641000" />
+      <workItem from="1650645037223" duration="1166000" />
+      <workItem from="1650765388573" duration="1344000" />
+      <workItem from="1650894719244" duration="1304000" />
+      <workItem from="1650940173585" duration="3236000" />
+      <workItem from="1650943580179" duration="2387000" />
+      <workItem from="1651074689746" duration="97000" />
+      <workItem from="1651076020861" duration="595000" />
+      <workItem from="1651079715832" duration="7000" />
+      <workItem from="1651111808759" duration="7702000" />
+      <workItem from="1651927448120" duration="92000" />
+      <workItem from="1651927872062" duration="8913000" />
+      <workItem from="1651989884792" duration="6242000" />
+      <workItem from="1652071045777" duration="4418000" />
+      <workItem from="1652149939906" duration="6159000" />
+      <workItem from="1652322193500" duration="6544000" />
+      <workItem from="1652754560442" duration="353000" />
+      <workItem from="1652756013493" duration="3680000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1650294319897">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1650294319897" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1650339361209">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1650339361209" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1650943168237">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1650943168237" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/js/script.js</url>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
